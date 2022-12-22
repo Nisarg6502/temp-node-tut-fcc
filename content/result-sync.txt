@@ -1,4 +1,5 @@
 Here is the result: Help, this is the first text file, 
  Hello, this is the second text fileHere is the result: Help, this is the first text file, 
  Hello, this is the second text fileHere is the result: Help, this is the first text file, 
+ Hello, this is the second text file Here is the result: Help, this is the first text file, 
  Hello, this is the second text file 
